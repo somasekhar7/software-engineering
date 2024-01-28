@@ -8,6 +8,10 @@ function subtract(a, b) {
     // return a - b;
 }
 
+//addition
+function addition(a, b){
+    return a+b;
+}
 
 
 // Division
